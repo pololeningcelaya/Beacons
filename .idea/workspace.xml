@@ -6,13 +6,17 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b0241bf-8384-4923-866d-7e299865a9d2" name="Default Changelist" comment="" />
+    <list default="true" id="9b0241bf-8384-4923-866d-7e299865a9d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/altbeacon/beaconreference/BeaconReferenceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/altbeacon/beaconreference/BeaconReferenceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="126adf09" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_30" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -28,6 +32,9 @@
   <component name="FavoritesManager">
     <favorites_list name="android-beacon-library-reference-master" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gVsKu4PsKA8j7pH8ayAl1J3e3S" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,7 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exposure-notifications-android" />
     <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
   </component>
   <component name="RunManager">
@@ -113,6 +120,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1598279047210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1824.986/0.0.1920.1040@0.0.1920.1040" timestamp="1598279047210" />
     <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1598216702417">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
